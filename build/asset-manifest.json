@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/roboFrenz/static/css/main.c49d09ed.css",
+    "main.js": "/roboFrenz/static/js/main.460af57e.js",
+    "static/js/787.f3d7924f.chunk.js": "/roboFrenz/static/js/787.f3d7924f.chunk.js",
+    "static/media/SEGA.woff": "/roboFrenz/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/roboFrenz/index.html",
+    "main.c49d09ed.css.map": "/roboFrenz/static/css/main.c49d09ed.css.map",
+    "main.460af57e.js.map": "/roboFrenz/static/js/main.460af57e.js.map",
+    "787.f3d7924f.chunk.js.map": "/roboFrenz/static/js/787.f3d7924f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c49d09ed.css",
+    "static/js/main.460af57e.js"
+  ]
+}
